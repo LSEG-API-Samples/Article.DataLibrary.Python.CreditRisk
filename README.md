@@ -4,7 +4,7 @@ A UK based food manufacturer has excess cash and has set up its own fund to inve
 
 Does that mean it’s not possible to provide this information when the CDS 5Y price is quoted by Refinitiv? Absolutely not! In this article, we will describe how to leverage Python to enrich the portfolio details with the credit risk exposures.
 
-Refer to the [Credit Risk Exposure Article](https://developers.refinitiv.com/en/article-catalog/article/understanding-a-portfolios-country-risk-exposure) defined within the Refinitiv Developer Community for more details.
+Refer to the [Credit Risk Exposure Article](https://developers.refinitiv.com/en/article-catalog/article/understand-and-retrieve-your-portfolio-s-credit-risk-exposures) defined within the Refinitiv Developer Community for more details.
 
 ## <a id="disclaimer"></a>Disclaimer
 The source code presented in this project has been written by Refinitiv only for the purpose of illustrating the concepts of creating example scenarios using the Refinitiv Data Library for Python.
